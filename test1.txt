@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 144F-D6F5
-
- Directory of C:\Users\Indira\Desktop\MyGitProject
-
-02/08/2020  12:46 PM    <DIR>          .
-02/08/2020  12:46 PM    <DIR>          ..
-02/08/2020  12:46 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  130,193,178,624 bytes free
+  ichande dthis file
